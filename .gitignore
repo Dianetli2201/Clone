@@ -1,0 +1,41 @@
+# Build results
+bin/
+obj/
+out/
+
+# VS Code directories
+.vscode/
+.vscode/*
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+*.nupkg
+*.snupkg
+
+# NuGet
+*.nuget
+/packages
+# The packages folder can be ignored because of Package Restore
+# except build/, which is used as an MSBuild target.
+!packages/build/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Azure DevOps
+.vsts
+.vsts/*
